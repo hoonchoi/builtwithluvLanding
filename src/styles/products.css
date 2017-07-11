@@ -1,0 +1,26 @@
+.products {
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.product-card {
+  padding: 1em;
+}
+
+.product-header {
+  left: 2em;
+}
+
+.our-work {
+  line-height: 150px;
+  font-size: 4em;
+  font-weight: 300;
+}
+
+.fa.fa-github.fa-2x {
+  color: rgb(0, 0, 0);
+}
+
+.fa.fa-globe.fa-2x {
+  color: rgb(0, 96, 151);
+}

@@ -1,0 +1,12 @@
+.nav-bar {
+  position: fixed !important;
+}
+
+.nav-bar-icon {
+  content: url('../images/builtwithluv.png');
+  position: absolute;
+  bottom: .3em;
+  width: 1.5em;
+  height: auto;
+  flex: 0 0 auto;
+}

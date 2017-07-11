@@ -1,0 +1,26 @@
+.team {
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.member-card {
+  padding: 1em;
+}
+
+.member-header {
+  left: 2em;
+}
+
+.meet-the-team {
+  line-height: 200px;
+  font-size: 4em;
+  font-weight: 300;
+}
+
+.fa.fa-github.fa-2x {
+  color: rgb(0, 0, 0);
+}
+
+.fa.fa-linkedin-square.fa-2x {
+  color: rgb(0, 96, 151);
+}

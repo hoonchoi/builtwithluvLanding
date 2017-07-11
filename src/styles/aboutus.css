@@ -1,0 +1,16 @@
+.about-us {
+  padding: 96px 48px;
+  box-sizing: border-box;
+  background-color: rgb(238, 238, 238);
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 200;
+}
